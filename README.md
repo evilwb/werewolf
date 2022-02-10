@@ -1,5 +1,5 @@
 # Werewolf
-Will Becker wibecker@pdx.edu
+Will Becker willvfs@gmail.com
 
 This is an online multiplayer, text based version of the game [Werewolf](https://en.wikipedia.o/wiki/Mafia_(party_game)) 
 
